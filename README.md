@@ -3,7 +3,8 @@
 https://takagotch.github.io/o1960/
 
 
-```
+```CNAME
+gamershub.in
 ```
 
 ```
