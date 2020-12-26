@@ -7,7 +7,7 @@ https://takagotch.github.io/o1960/
 gamershub.in
 ```
 
-```
+```LICENCE
 ```
 
 ```
