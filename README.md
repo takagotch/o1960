@@ -1,6 +1,6 @@
-### o1960
+### page462
 ---
-https://takagotch.github.io/o1960/
+https://takagotch.github.io/page462
 
 
 ```CNAME
